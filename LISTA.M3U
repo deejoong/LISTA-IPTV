@@ -29,8 +29,8 @@ https://server100.shop/animal-planet/tracks-v1a1/mono.m3u8?token=3e9e59119a90db5
 https://server100.shop/arte1/tracks-v1a1/mono.m3u8?token=8efd7a8342f064b83e24e265c4526c428b601d9b-260910cb02dbf8951da29b1398db84cb-1666666915-1666659715
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",BABY TV
 https://server100.shop/babytv/tracks-v1a1/mono.m3u8?token=12c081cee7c8fe27d057d7ea013eb67f3aaccc6b-52cce3bd4f97069255e8e62062d3d1b0-1666667058-1666659858
-#EXTINF:0 tvg-logo="https://pubimg.band.uol.com.br/files/d2e81ccb846c7e8229c9.png" group-title="TV ABERTA",BAND SÃO PAULO
-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49_QdaX3QfQuVhDIeUjQrM468AHivyiMPx3EwVxUj6uR)/dm/3/x83vbd6/s/live-3.m3u8#cell=lnyc
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49_QdaX3QfQuVhDIeUjQrM468AHivyiMPx3EwVxUj6uR)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
 https://cdn.connectbr.com.br/BandSports/index.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BAND NEWS
