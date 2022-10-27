@@ -19,7 +19,7 @@ https://server100.shop/ae/tracks-v1a1/mono.m3u8?token=cf3ee283c7dcb57ffbfed0d8cc
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="FILMES E SÉRIES",AMC Brasil
 https://server100.shop/amc/tracks-v1a1l1/mono.m3u8?token=a5852770c77297a1b6bf095bf5404b25b154b9b9-66c246dfc50539049d80f8b4ec196d6a-1666666680-1666659480
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
-https://server100.shop/axn/tracks-v1a1/mono.m3u8?token=b9c6f6da51c54393eb2231b1cd36ee62f444c06f-41262803591d7fd65848cde17abd28df-1666733621-1666726421
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_1499136=1.m3u8
 #EXTINF:0 tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_large_atual-logo.jpg" group-title="VARIEDADES",AMAZON SAT
 https://server100.shop/animal-planet/tracks-v1a1/mono.m3u8?token=f3383d49102536eb7c33e37b4845f1b2056c00c9-94dbfca679a533418ee27e3ac98a6216-1666666825-1666659625
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET
