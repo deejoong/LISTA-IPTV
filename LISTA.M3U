@@ -8,6 +8,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivahd/tracks-v1a1/mono.
 https://cdn.ittv.com.br/RECORD_AL_TV_PIRAJUCARA/tracks-v1a1/mono.m3u8?token=3d7e2ef17e33e0db48724f24e200000636b900fb-e8874fba17bb6e9e4f422ccdb84a5319-1667112506-1666507706
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",REDE GLOBO
 https://cdn.ittv.com.br/GLOBO_AL_TV_GAZETA/tracks-v3a1/mono.m3u8?token=7d38602984261b944bd7e1e492d136ee0a4f3ee7-42e0b8d193ec96a766f13aef74cfed2b-1667333966-1666729166
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV!
 https://cdn.ittv.com.br/REDE_TV/tracks-v3a1/mono.m3u8?token=59fc102446754a5bf9c691886a56cc78b7c927a2-d860d58c0abcb046d3f5aa2b80ed707b-1667116734-1666511934
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
@@ -30,7 +31,6 @@ https://server100.shop/animal-planet/tracks-v1a1/mono.m3u8?token=3e9e59119a90db5
 https://server100.shop/arte1/tracks-v1a1/mono.m3u8?token=8efd7a8342f064b83e24e265c4526c428b601d9b-260910cb02dbf8951da29b1398db84cb-1666666915-1666659715
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",BABY TV
 https://server100.shop/babytv/tracks-v1a1/mono.m3u8?token=12c081cee7c8fe27d057d7ea013eb67f3aaccc6b-52cce3bd4f97069255e8e62062d3d1b0-1666667058-1666659858
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
 https://cdn.ittv.com.br/BAND_MACEIO/tracks-v1a1/mono.m3u8?token=letmein_PS
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
 https://cdn.connectbr.com.br/BandSports/index.m3u8
