@@ -4,7 +4,7 @@ https://cdn.ittv.com.br/SBT_HD/tracks-v3a1/mono.m3u8?token=fa085767f65c7e4b428bb
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="TV ABERTA",CANAL VIVA
 https://server100.online/viva/video.m3u8?token=c575a8daa1688449be32ba885e48204506d951e3-e8970055512045b719b86ab98afa57d3-1666965186-1666957986&remote=168.181.112.178
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="TV ABERTA",CANAL FUTURA
-https://cdn.ittv.com.br/FUTURA/index.m3u8?token=dbba81f55c69ab91d373b0cf6df31bee9aa03fd3-1fcd48cecdde62a72bd9863cf97a0897-1667563573-1666958773
+https://cdn.ittv.com.br/FUTURA/tracks-v1a1/mono.m3u8?token=09db7bb22750e7e8d5362eb27b6b4897e6216b9a-6c1ffe0cb510967b458d9781ea5d5771-1667563931-1666959131
 #EXTINF:0 tvg-logo="https://img.ittv.com.br/images/channel-logo/5f8da8b4592ce60001fe13ad.PNG" group-title="TV ABERTA",TV PAJUÇARA
 https://cdn.ittv.com.br/RECORD_AL_TV_PIRAJUCARA/tracks-v1a1/mono.m3u8?token=3d7e2ef17e33e0db48724f24e200000636b900fb-e8874fba17bb6e9e4f422ccdb84a5319-1667112506-1666507706
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",REDE GLOBO
