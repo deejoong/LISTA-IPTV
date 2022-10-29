@@ -28,8 +28,6 @@ https://server100.shop/amc/tracks-v1a1l1/mono.m3u8?token=a5852770c77297a1b6bf095
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dfa90de31e1d22f1a939a75fe916f98b?rik=G67495qdkTz%2bMQ&pid=ImgRaw&r=0" group-title="FILMES E SÉRIES",HBO Brasil
 https://live.embedflix.net/p2p/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjIyOjUxIEFNJmhhc2hfdmFsdWU9VUgwbjN1ZmVOQWJkc2tLMEtPWVV5Zz09JnZhbGlkbWludXRlcz05MA==
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="FILMES E SÉRIES",HBO 2 BRASIL
-https://live.embedflix.net/p2p/hbo2/chunks.m3u8?nimblesessionid=484775&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjI3OjE1IEFNJmhhc2hfdmFsdWU9U2dwR0JlVVFEMTFvMGVFNlF1a2R4dz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0 tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_large_atual-logo.jpg" group-title="VARIEDADES",
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET
 https://live.embedflix.net/p2p/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjEzOjE1IEFNJmhhc2hfdmFsdWU9MEF2WU0zTWlQY2piL3lTc2tQUW5CQT09JnZhbGlkbWludXRlcz05MA==
