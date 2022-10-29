@@ -26,7 +26,7 @@ https://server100.shop/ae/tracks-v1a1/mono.m3u8?token=cf3ee283c7dcb57ffbfed0d8cc
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="FILMES E SÉRIES",AMC Brasil
 https://server100.shop/amc/tracks-v1a1l1/mono.m3u8?token=a5852770c77297a1b6bf095bf5404b25b154b9b9-66c246dfc50539049d80f8b4ec196d6a-1666666680-1666659480
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="FILMES E SÉRIES",HBO BRASIL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMES E SÉRIES",HBO BRASIL
 https://live.embedflix.net/p2p/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjIyOjUxIEFNJmhhc2hfdmFsdWU9VUgwbjN1ZmVOQWJkc2tLMEtPWVV5Zz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="FILMES E SÉRIES",HBO 2 BRASIL
 https://live.embedflix.net/p2p/hbo2/chunks.m3u8?nimblesessionid=484775&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjI3OjE1IEFNJmhhc2hfdmFsdWU9U2dwR0JlVVFEMTFvMGVFNlF1a2R4dz09JnZhbGlkbWludXRlcz05MA==
