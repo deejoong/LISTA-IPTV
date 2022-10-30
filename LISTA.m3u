@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
 https://cdn.ittv.com.br/SBT_HD/tracks-v3a1/mono.m3u8?token=2e55c7fd2b75c3497298194eac74f4aa259dab45-e87ace167af7e5c02aacee5c74692054-1667685376-1667080576
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="TV ABERTA",CANAL VIVA
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivasd/tracks-v1a1/mono.m3u8?md5=QuWSOwPZmPbKLUwVGz7VfA&expires=1667170356
+http://66.90.68.98/live/1666890340hig/443900/90442.m3u8?token=RUluN29QUmJNUTJmYVc3
 #EXTINF:0 tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV ABERTA",CANAL FUTURA
 https://cdn.ittv.com.br/FUTURA/tracks-v1a1/mono.m3u8?token=09db7bb22750e7e8d5362eb27b6b4897e6216b9a-6c1ffe0cb510967b458d9781ea5d5771-1667563931-1666959131
 #EXTINF:0 tvg-logo="https://img.ittv.com.br/images/channel-logo/5f8da8b4592ce60001fe13ad.PNG" group-title="TV ABERTA",TV PAJUÇARA
@@ -37,9 +37,9 @@ https://server100.shop/arte1/tracks-v1a1/mono.m3u8?token=8efd7a8342f064b83e24e26
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="INFANTIL",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1748922735.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",CARTOON NETWORK BRASIL
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist-720p.m3u8
+https://lmtv.me/live/1666890340hig/443900/89866.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTIL",DISCOVERY KIDS BRASIL
-https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?token=dd219c8e54aeaea0b32333852903dc8664ccab01-2f5f73d461b90a729c1405af4490815d-1667142523-1667135323
+https://lmtv.me/live/1666890340hig/443900/89922.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="INFANTIL",TOONCAST
 https://server100.online/tooncast/tracks-v1a1/mono.m3u8?token=c2262f24b7d3c062f68a8510557ea1b9884cd98e-ba979fafb2a3facef99dd7dbfa37e41a-1667147384-1667140184
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
