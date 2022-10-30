@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
 https://cdn.ittv.com.br/SBT_HD/tracks-v3a1/mono.m3u8?token=2e55c7fd2b75c3497298194eac74f4aa259dab45-e87ace167af7e5c02aacee5c74692054-1667685376-1667080576
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="TV ABERTA",CANAL VIVA
-https://server100.online/br/viva/tracks-v1a1/mono.m3u8?token=8a364dcdb9d6a05330add5a6d0725f5db78edd96-cddf39232202da96fc9bab2a2f0da1f3-1667067618-1667060418
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivasd/tracks-v1a1/mono.m3u8?md5=QuWSOwPZmPbKLUwVGz7VfA&expires=1667170356
 #EXTINF:0 tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV ABERTA",CANAL FUTURA
 https://cdn.ittv.com.br/FUTURA/tracks-v1a1/mono.m3u8?token=09db7bb22750e7e8d5362eb27b6b4897e6216b9a-6c1ffe0cb510967b458d9781ea5d5771-1667563931-1666959131
 #EXTINF:0 tvg-logo="https://img.ittv.com.br/images/channel-logo/5f8da8b4592ce60001fe13ad.PNG" group-title="TV ABERTA",TV PAJUÇARA
