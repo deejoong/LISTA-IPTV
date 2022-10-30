@@ -40,7 +40,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1748922735.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
 https://br.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=249510&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA0OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cGgweGg5WTg0dldnS0hxZGszY2ljdz09JnZhbGlkbWludXRlcz05MA==
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BAND NEW
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BAND NEWS
 https://server100.shop/band-news/tracks-v1a1/mono.m3u8?token=631e33d3157a1d5cd4e50be1aa934b144db2d48f-ee3a74e95d16104c2bb276d62b22d701-1666667203-1666660003
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.5f3fcd9b0f2037925c9e6ddb8cca9fee?rik=VAoa54vEVv%2fvEQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV ABERTA",TV BRASIL
 https://cdn.ittv.com.br/TV_BRASIL/tracks-v3a1/mono.m3u8?token=8271dc796ea97f79c3f078d484daeaf816f25416-44f423f8fbb154eaf6a91ca702af6205-1667395423-1666790623
