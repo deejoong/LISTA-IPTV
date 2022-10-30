@@ -37,7 +37,7 @@ https://server100.shop/arte1/tracks-v1a1/mono.m3u8?token=8efd7a8342f064b83e24e26
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="INFANTIL",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1748922735.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",CARTOON NETWORK BRASIL
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
 https://br.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=249510&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA0OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cGgweGg5WTg0dldnS0hxZGszY2ljdz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BAND NEW
