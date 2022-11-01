@@ -15,6 +15,13 @@ https://cdn.ittv.com.br/BAND_MACEIO/tracks-v1a1/mono.m3u8?token=d24665a8e7699d36
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w92918957_b2656397.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+
+
+
+
+
+
+                                             
 #EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/caverna.jpg" group-title="DESENHOS 24 HORAS",CAVERNA DO DRAGÃO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91764.ts
 #EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/cdz.jpg" group-title="DESENHOS 24 HORAS",CAVALEIROS DO ZODÍACO
@@ -33,6 +40,10 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/39571.ts
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w219127585.m3u8
 #EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
+
+
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36929.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="FILMES E SÉRIES",AMC Brasil
@@ -42,18 +53,61 @@ https://server100.shop/amc/tracks-v1a1l1/mono.m3u8?token=a5852770c77297a1b6bf095
 https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=529027&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyMiAyOjQwOjUxIEFNJmhhc2hfdmFsdWU9MmdYSTdQZHl3bzlmbklQU25ZVERwdz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="FILMES E SÉRIES",HBO 2 BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36966.ts
+
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET
 https://live.embedflix.net/p2p/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjEzOjE1IEFNJmhhc2hfdmFsdWU9MEF2WU0zTWlQY2piL3lTc2tQUW5CQT09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0 tvg-logo="https://i.imgur.com/Oo43aQD.png" group-title="VARIEDADES",ARTE 1
-https://server100.shop/arte1/tracks-v1a1/mono.m3u8?token=8efd7a8342f064b83e24e265c4526c428b601d9b-260910cb02dbf8951da29b1398db84cb-1666666915-1666659715
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="INFANTIL",RETRÔ CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1748922735.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",BABY TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",BOOMERANG
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63627.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",CARTOON NETWORK BRASIL
-https://lmtv.me/live/1666890340hig/443900/89866.m3u8
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36927.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTIL",DISCOVERY KIDS BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50706.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/512px-Disney_channel_2019.png" group-title="INFANTIL",DISNEY CHANNEL BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36921.ts
+#EXTINF:0 tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="INFANTIL",GLOOB HD
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50773.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",NICK JR
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36908.ts
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="INFANTIL",RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1748922735.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="INFANTIL",TV RÁ TIM BUM
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63786.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="INFANTIL",TOONCAST
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63647.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORT
 https://br.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=249510&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA0OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cGgweGg5WTg0dldnS0hxZGszY2ljdz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BAND NEW
