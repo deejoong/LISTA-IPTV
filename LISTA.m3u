@@ -10,12 +10,16 @@ https://cdn.ittv.com.br/RECORD_AL_TV_PIRAJUCARA/tracks-v1a1/mono.m3u8?token=3d7e
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",REDE GLOBO
 https://cdn.ittv.com.br/GLOBO_AL_TV_GAZETA/tracks-v3a1/mono.m3u8?token=7d38602984261b944bd7e1e492d136ee0a4f3ee7-42e0b8d193ec96a766f13aef74cfed2b-1667333966-1666729166
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
-https://cdn.ittv.com.br/BAND_MACEIO/tracks-v1a1/mono.m3u8?token=d24665a8e7699d3602df0482a39a2d3cd6d09fc9-9899912405370681d7be692dfa0f8d13-1667508999-1666904199
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50650.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV!
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w92918957_b2656397.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
-
+https://server100.shop/band-news/tracks-v1a1/mono.m3u8?token=631e33d3157a1d5cd4e50be1aa934b144db2d48f-ee3a74e95d16104c2bb276d62b22d701-1666667203-1666660003
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.5f3fcd9b0f2037925c9e6ddb8cca9fee?rik=VAoa54vEVv%2fvEQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV ABERTA",TV BRASIL
+https://cdn.ittv.com.br/TV_BRASIL/tracks-v3a1/mono.m3u8?token=8271dc796ea97f79c3f078d484daeaf816f25416-44f423f8fbb154eaf6a91ca702af6205-1667395423-1666790623
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV ABERTA",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 
 
@@ -47,18 +51,19 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36929.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="FILMES E SÉRIES",AMC Brasil
-https://server100.shop/amc/tracks-v1a1l1/mono.m3u8?token=a5852770c77297a1b6bf095bf5404b25b154b9b9-66c246dfc50539049d80f8b4ec196d6a-1666666680-1666659480
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36928.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36991.ts
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dfa90de31e1d22f1a939a75fe916f98b?rik=G67495qdkTz%2bMQ&pid=ImgRaw&r=0" group-title="FILMES E SÉRIES",HBO BRASIL
-https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=529027&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyMiAyOjQwOjUxIEFNJmhhc2hfdmFsdWU9MmdYSTdQZHl3bzlmbklQU25ZVERwdz09JnZhbGlkbWludXRlcz05MA==
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50792.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="FILMES E SÉRIES",HBO 2 BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36966.ts
 
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET
-https://live.embedflix.net/p2p/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA1OjEzOjE1IEFNJmhhc2hfdmFsdWU9MEF2WU0zTWlQY2piL3lTc2tQUW5CQT09JnZhbGlkbWludXRlcz05MA==
-#EXTINF:0 tvg-logo="https://i.imgur.com/Oo43aQD.png" group-title="VARIEDADES",ARTE 1
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36992.ts
+
 
 
 
@@ -85,6 +90,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1748922735.m3u8
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63786.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="INFANTIL",TOONCAST
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63647.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png" group-title="INFANTIL",ZOOMOO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63779.ts
 
 
 
@@ -107,13 +114,3 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63647.ts
 
 
 
-
-
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORT
-https://br.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=249510&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA0OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cGgweGg5WTg0dldnS0hxZGszY2ljdz09JnZhbGlkbWludXRlcz05MA==
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BAND NEW
-https://server100.shop/band-news/tracks-v1a1/mono.m3u8?token=631e33d3157a1d5cd4e50be1aa934b144db2d48f-ee3a74e95d16104c2bb276d62b22d701-1666667203-1666660003
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.5f3fcd9b0f2037925c9e6ddb8cca9fee?rik=VAoa54vEVv%2fvEQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV ABERTA",TV BRASIL
-https://cdn.ittv.com.br/TV_BRASIL/tracks-v3a1/mono.m3u8?token=8271dc796ea97f79c3f078d484daeaf816f25416-44f423f8fbb154eaf6a91ca702af6205-1667395423-1666790623
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV ABERTA",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
