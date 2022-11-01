@@ -22,11 +22,13 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57344.ts
 #EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/dbz.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57682.ts
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/D/dragon-ball-super-logo-5340BC6DC4-seeklogo.com.png" group-title="DESENHOS 24 HORAS",DRAGON BALL SUPER
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/naruto.jpg" group-title="DESENHOS 24 HORAS",NARUTO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/56465.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/58092.ts
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_rkcoCnWrrz4/TULPqwv9e0I/AAAAAAAAAIk/Rr5teEjfVQU/w72-h72-p-k-no-nu/logo+mas+bob1243875565440.png" group-title="DESENHOS 24 HORAS",BOB ESPONJA CALÇA QUADRADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/59746.ts
 #EXTINF:0 tvg-logo="https://img.elo7.com.br/product/zoom/2643764/vetores-turma-da-monica-cdr-eps-ai-e-png-100-vetores-cdr-lembrancinha.jpg" group-title="DESENHOS 24 HORAS",TURMA DA MÔNICA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/39571.ts
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="DESENHOS 24 HORAS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w219127585.m3u8
 #EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
