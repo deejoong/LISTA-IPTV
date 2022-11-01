@@ -24,7 +24,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="DESENHOS 24 HORAS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w219127585.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E
-https://server100.shop/ae/tracks-v1a1/mono.m3u8?token=cf3ee283c7dcb57ffbfed0d8ccfe087fe5dfdae1-f9dd3b1e988b21651a8cc34a9e3036bd-1666666552-1666659352
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36929.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="FILMES E SÉRIES",AMC Brasil
 https://server100.shop/amc/tracks-v1a1l1/mono.m3u8?token=a5852770c77297a1b6bf095bf5404b25b154b9b9-66c246dfc50539049d80f8b4ec196d6a-1666666680-1666659480
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
