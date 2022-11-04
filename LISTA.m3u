@@ -1,49 +1,176 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36945.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/BmOhmtd.png" group-title="TV ABERTA",Agro+ HD
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/90975.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/yL4DZoE.png" group-title="TV ABERTA",CANAL RURAL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63217.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-do-boi_m.png" group-title="TV ABERTA",CANAL DO BOI
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68528.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV ABERTA",CANAL FUTURA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/40074.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="TV ABERTA",RECORD NACIONAL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36947.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",REDE GLOBO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/51150.ts
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZddcZww.png" group-title="TV ABERTA",REDE 21 HD
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81020.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV ABERTA",REDE BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37013.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV!
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37012.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36945.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91314.ts
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.5f3fcd9b0f2037925c9e6ddb8cca9fee?rik=VAoa54vEVv%2fvEQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV ABERTA",TV BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63632.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV ABERTA",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/z76Gbsm.png" group-title="TV ABERTA",TV ESCOLA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36999.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/UYy0dsl.png" group-title="TV ABERTA",TV JUSTIÇA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/56402.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="TV ABERTA",TV SENADO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63665.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="TV ABERTA",TERRA VIVA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81607.ts
+
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="VARIEDADES",CANAL VIVA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36931.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="VARIEDADES",COMEDY CENTRAL BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36925.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/jr7oYXu.png" group-title="VARIEDADES",CANAL BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63636.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/4vgYT8o.png" group-title="VARIEDADES",CANAL OFF
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36954.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="VARIEDADES",CURTA!
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63646.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DOGTV_LOGO.jpg/512px-DOGTV_LOGO.jpg" group-title="VARIEDADES",DOG TV
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63767.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! Brasil
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36920.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="VARIEDADES",FASHIONTV BRAZIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63769.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="VARIEDADES",FILM &AMP; ARTS BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68536.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/4h89JKx.png" group-title="VARIEDADES",FISH TV
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37103.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="VARIEDADES",FOOD NETWORK BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36919.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/512px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36967.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/djoI9vz.png" group-title="VARIEDADES",IDEAL TV
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63404.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50829.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LOADING
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/76607.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="VARIEDADES",MTV LIVE HD
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/40518.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/512px-Multishow_logo_red_2012.svg.png" group-title="VARIEDADES",MULTISHOW
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36957.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/EfzZV6k.png" group-title="VARIEDADES",MUSIC BOX BRAZIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63651.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="VARIEDADES",MTV BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36910.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/me622pa.png" group-title="VARIEDADES",WOOHOO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36899.ts
 
 
 
 
-                                             
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/caverna.jpg" group-title="DESENHOS 24 HORAS",CAVERNA DO DRAGÃO
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91764.ts
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/cdz.jpg" group-title="DESENHOS 24 HORAS",CAVALEIROS DO ZODÍACO
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57344.ts
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/dbz.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57682.ts
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/5/57/Dragon_Ball_Super_Logo.png/revision/latest?cb=20150608195013&path-prefix=pt-br" group-title="DESENHOS 24 HORAS",DRAGON BALL SUPER
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/58092.ts
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/naruto.jpg" group-title="DESENHOS 24 HORAS",NARUTO
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/56465.ts
-#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_rkcoCnWrrz4/TULPqwv9e0I/AAAAAAAAAIk/Rr5teEjfVQU/w72-h72-p-k-no-nu/logo+mas+bob1243875565440.png" group-title="DESENHOS 24 HORAS",BOB ESPONJA CALÇA QUADRADA
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91737.ts
-#EXTINF:0 tvg-logo="https://img.elo7.com.br/product/zoom/2643764/vetores-turma-da-monica-cdr-eps-ai-e-png-100-vetores-cdr-lembrancinha.jpg" group-title="DESENHOS 24 HORAS",TURMA DA MÔNICA
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/39571.ts
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="DESENHOS 24 HORAS",OS JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w219127585.m3u8
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36992.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/512px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTÁRIO",DISCOVERY WORLD BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/64498.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50691.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="DOCUMENTÁRIO",Discovery HOME &AMP; HEALTH BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36984.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIO",DISCOVERY SCIENCE BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36922.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/512px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTÁRIO",DISCOVERY THEATHER
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36983.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTÁRIO",DISCOVERY TURBO BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36982.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTÁRIO",HISTORY BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36960.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIO",HISTORY 2 BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36961.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIO",NATIONAL GEOGRAPHIC
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36956.ts
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png" group-title="ESPORTES",CONMEBOL 1
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/89552.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png" group-title="ESPORTES",CONMEBOL 2
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/89554.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png" group-title="ESPORTES",CONMEBOL 3
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81685.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png" group-title="ESPORTES",CONMEBOL 4
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81688.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36977.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG" group-title="ESPORTES",ESPN EXTRA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/42910.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/73051.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="ESPORTES",FOX SPORTS BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36970.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="ESPORTES",FOX SPORTS 2 BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36971.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="ESPORTES",PREMIERE CLUBES
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36948.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/74669.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png"ESPORTES",PREMIERE 2
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36952.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 3
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37059.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png"ESPORTES",PREMIERE 4
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36950.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png"ESPORTES",PREMIERE 5
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36949.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 6
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36906.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 7
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36905.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 8
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/64657.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/XNfagj9.png" group-title="ESPORTES",SPORTV
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37255.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="ESPORTES",SPORTV 2
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36943.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="ESPORTES",SPORTV 3
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36942.ts
+
+
+
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/B/band-news-tv-logo-A71E4BFCA5-seeklogo.com.png" group-title="NOTÍCIAS",BAND NEWS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50654.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NOTÍCIAS",CNN BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/65039.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NOTÍCIAS",GLOBO NEWS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36917.ts
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jp-news-br.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/85005.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37050.ts
+
 
 
 
@@ -54,19 +181,70 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36929.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50639.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36991.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="FILMES E SÉRIES",CINEMAX BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50669.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="FILMES E SÉRIES",EUROCHANNEL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/75173.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36969.ts
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dfa90de31e1d22f1a939a75fe916f98b?rik=G67495qdkTz%2bMQ&pid=ImgRaw&r=0" group-title="FILMES E SÉRIES",HBO BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36964.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="FILMES E SÉRIES",HBO 2 BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36966.ts
-
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36992.ts
-
-
-
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="FILMES E SÉRIES",HBO FAMILY BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36965.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="FILMES E SÉRIES",HBO MUNDI BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36913.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="FILMES E SÉRIES",HBO PLUS BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36963.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="FILMES E SÉRIES",HBO POP BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81798.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="FILMES E SÉRIES",HBO SIGNATURE BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36962.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="FILMES E SÉRIES",HBO XTREME BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36912.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36958.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/YZ7aSTP.png" group-title="FILMES E SÉRIES",PRIME BOX BRAZIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68532.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",SONY CHANNEL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36987.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36972.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36904.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="FILMES E SÉRIES",SYFY
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36903.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="FILMES E SÉRIES",SPACE
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36944.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="FILMES E SÉRIES",TELECINE ACTION
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36939.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="FILMES E SÉRIES",TELECINE CULT
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36901.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="FILMES E SÉRIES",TELECINE FUN
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36938.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36937.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36936.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="FILMES E SÉRIES",TELECINE TOUCH
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36935.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png" group-title="FILMES E SÉRIES",TBS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36940.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png" group-title="FILMES E SÉRIES",TCM
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63644.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="FILMES E SÉRIES",TLC
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36902.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36934.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SÉRIES
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36933.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36932.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="FILMES E SÉRIES",Warner Channel
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36930.ts
 
 
 
@@ -82,6 +260,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50706.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36921.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gloob_logo.png/512px-Gloob_logo.png" group-title="INFANTIL",GLOOB HD
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50773.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/UWkHErt.png" group-title="INFANTIL",GLOOBINHO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/38969.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",NICK JR
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36908.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="INFANTIL",NICKELODEON
@@ -95,6 +275,93 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63647.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png" group-title="INFANTIL",ZOOMOO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63779.ts
 
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="RELIGIOSO",REDE GOSPEL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91334.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="RELIGIOSO",REDE SUPER
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91512.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png" group-title="RELIGIOSO",TV CANÇÃO NOVA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37023.ts
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-novo-tempo_m.png" group-title="RELIGIOSO",TV NOVO TEMPO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68524.ts
+
+
+
+
+
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_rkcoCnWrrz4/TULPqwv9e0I/AAAAAAAAAIk/Rr5teEjfVQU/w72-h72-p-k-no-nu/logo+mas+bob1243875565440.png" group-title="DESENHOS 24 HORAS",BOB ESPONJA CALÇA QUADRADA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91737.ts
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/caverna.jpg" group-title="DESENHOS 24 HORAS",CAVERNA DO DRAGÃO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91764.ts
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/cdz.jpg" group-title="DESENHOS 24 HORAS",CAVALEIROS DO ZODÍACO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57344.ts
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/dbz.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57682.ts
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/5/57/Dragon_Ball_Super_Logo.png/revision/latest?cb=20150608195013&path-prefix=pt-br" group-title="DESENHOS 24 HORAS",DRAGON BALL SUPER
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/58092.ts
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/naruto.jpg" group-title="DESENHOS 24 HORAS",NARUTO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/56465.ts
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="DESENHOS 24 HORAS",OS JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w219127585.m3u8
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
+#EXTINF:0 tvg-logo="https://img.elo7.com.br/product/zoom/2643764/vetores-turma-da-monica-cdr-eps-ai-e-png-100-vetores-cdr-lembrancinha.jpg" group-title="DESENHOS 24 HORAS",TURMA DA MÔNICA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/39571.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
