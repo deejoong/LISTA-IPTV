@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/BmOhmtd.png" group-title="TV ABERTA",Agro+ HD
+#EXTINF:0 tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg"TV ABERTA",Agro+ HD
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/90975.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
@@ -43,13 +43,13 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81607.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36931.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="VARIEDADES",COMEDY CENTRAL BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36925.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/jr7oYXu.png" group-title="VARIEDADES",CANAL BRASIL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png"VARIEDADES",CANAL BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63636.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/4vgYT8o.png" group-title="VARIEDADES",CANAL OFF
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36954.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="VARIEDADES",CURTA!
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63646.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DOGTV_LOGO.jpg/512px-DOGTV_LOGO.jpg" group-title="VARIEDADES",DOG TV
+#EXTINF:0 tvg-logo="https://imagem.natelinha.uol.com.br/original/dogtv-logo_4f9c2bda7e05c2173c6163ec8bd5465dbd8d89ab.jpeg" group-title="VARIEDADES",DOG TV
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63767.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! Brasil
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36920.ts
