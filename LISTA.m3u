@@ -2,19 +2,19 @@
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36945.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV ABERTA",CANAL FUTURA
-https://cdn.ittv.com.br/FUTURA/tracks-v1a1/mono.m3u8?token=09db7bb22750e7e8d5362eb27b6b4897e6216b9a-6c1ffe0cb510967b458d9781ea5d5771-1667563931-1666959131
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/40074.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="TV ABERTA",RECORD NACIONAL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36947.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",REDE GLOBO
-https://cdn.ittv.com.br/GLOBO_AL_TV_GAZETA/tracks-v3a1/mono.m3u8?token=7d38602984261b944bd7e1e492d136ee0a4f3ee7-42e0b8d193ec96a766f13aef74cfed2b-1667333966-1666729166
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/51150.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV!
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31072
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37012.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91314.ts
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.5f3fcd9b0f2037925c9e6ddb8cca9fee?rik=VAoa54vEVv%2fvEQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV ABERTA",TV BRASIL
-https://cdn.ittv.com.br/TV_BRASIL/tracks-v3a1/mono.m3u8?token=8271dc796ea97f79c3f078d484daeaf816f25416-44f423f8fbb154eaf6a91ca702af6205-1667395423-1666790623
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63632.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV ABERTA",REDE BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
