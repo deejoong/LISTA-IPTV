@@ -158,8 +158,7 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/65039.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36917.ts
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jp-news-br.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/85005.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",Record News
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37050.ts
+
 
 
 
@@ -279,7 +278,7 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63779.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="RELIGIOSO",REDE GOSPEL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91334.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZddcZww.png" group-title="TV ABERTA",Rede 21 HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZddcZww.png" group-title="RELIGIOSO",REDE 21 HD
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81020.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="RELIGIOSO",REDE SUPER
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91512.ts
