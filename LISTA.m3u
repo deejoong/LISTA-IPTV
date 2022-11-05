@@ -25,6 +25,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91314.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63632.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/z76Gbsm.png" group-title="TV ABERTA",TV ESCOLA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36999.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/512px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/58091.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/UYy0dsl.png" group-title="TV ABERTA",TV JUSTIÇA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/56402.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="TV ABERTA",TV SENADO
@@ -72,6 +74,12 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36957.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63651.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="VARIEDADES",MTV BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36910.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="VARIEDADES",SMITHSONIAN CHANNEL HD BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57387.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/lyzaNKI.png"VARIEDADES",TRAVEL BOX BRAZIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68525.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="VARIEDADES",TRU TV
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63649.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/me622pa.png" group-title="VARIEDADES",WOOHOO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36899.ts
 
@@ -209,6 +217,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50829.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36958.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/YZ7aSTP.png" group-title="FILMES E SÉRIES",PRIME BOX BRAZIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68532.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/VUt1lmH.png"FILMES E SÉRIES",PARAMOUNT NETWORK
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36953.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",SONY CHANNEL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36987.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL
@@ -284,10 +294,14 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91334.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81020.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="RELIGIOSO",REDE SUPER
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91512.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/512px-Rede_Vida_logo.png"RELIGIOSO",REDE VIDA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37011.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png" group-title="RELIGIOSO",TV CANÇÃO NOVA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37023.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-novo-tempo_m.png" group-title="RELIGIOSO",TV NOVO TEMPO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68524.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41341.ts
 
 
 
