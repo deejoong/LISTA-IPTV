@@ -36,7 +36,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81607.ts
 
 
 
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/Oo43aQD.png" group-title="VARIEDADES",ARTE 1
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63637.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="VARIEDADES",CANAL VIVA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36931.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="VARIEDADES",COMEDY CENTRAL BRASIL
