@@ -51,12 +51,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36954.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63646.ts
 #EXTINF:0 tvg-logo="https://imagem.natelinha.uol.com.br/original/dogtv-logo_4f9c2bda7e05c2173c6163ec8bd5465dbd8d89ab.jpeg" group-title="VARIEDADES",DOG TV
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63767.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! Brasil
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36920.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="VARIEDADES",FASHIONTV BRAZIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63769.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="VARIEDADES",FILM & ARTS BRASIL
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68536.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/4h89JKx.png" group-title="VARIEDADES",FISH TV
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37103.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="VARIEDADES",FOOD NETWORK BRASIL
@@ -65,8 +61,6 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36919.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36967.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/djoI9vz.png" group-title="VARIEDADES",IDEAL TV
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63404.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME BRASIL
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50829.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LOADING
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/76607.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="VARIEDADES",MTV LIVE HD
@@ -152,9 +146,9 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36905.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/64657.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/XNfagj9.png" group-title="ESPORTES",SPORTV
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37255.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/XNfagj9.png" group-title="ESPORTES",SPORTV 2
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36943.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/XNfagj9.png"ESPORTES",SPORTV 3
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36942.ts
 
 
@@ -187,6 +181,10 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50669.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="FILMES E SÉRIES",EUROCHANNEL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/75173.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="FILMES E SÉRIES",E! Brasil
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36920.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="FILMES E SÉRIES",FILM & ARTS BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/68536.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36969.ts
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dfa90de31e1d22f1a939a75fe916f98b?rik=G67495qdkTz%2bMQ&pid=ImgRaw&r=0" group-title="FILMES E SÉRIES",HBO BRASIL
@@ -205,6 +203,11 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81798.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36962.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="FILMES E SÉRIES",HBO XTREME BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36912.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="FILMES E SÉRIES",LIFETIME BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50829.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/200px-Loading_TV.svg.png" group-title="VARIEDADES",LOADING
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/76607.ts
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36958.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/YZ7aSTP.png" group-title="FILMES E SÉRIES",PRIME BOX BRAZIL
