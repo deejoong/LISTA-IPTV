@@ -13,8 +13,6 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/40074.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36947.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",REDE GLOBO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/51150.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZddcZww.png" group-title="TV ABERTA",REDE 21 HD
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81020.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV ABERTA",REDE BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37013.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV!
@@ -281,6 +279,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63779.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="RELIGIOSO",REDE GOSPEL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91334.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZddcZww.png" group-title="TV ABERTA",Rede 21 HD
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81020.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="RELIGIOSO",REDE SUPER
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91512.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png" group-title="RELIGIOSO",TV CANÇÃO NOVA
