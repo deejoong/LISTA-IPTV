@@ -38,6 +38,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/81607.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Oo43aQD.png" group-title="VARIEDADES",ARTE 1
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63637.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/VUt1lmH.png"VARIEDADES",BIS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36988.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="VARIEDADES",CANAL VIVA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36931.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="VARIEDADES",COMEDY CENTRAL BRASIL
@@ -107,6 +109,8 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36956.ts
 
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/BmOhmtd.png"ESPORTES",BAND SPORTS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36989.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png" group-title="ESPORTES",CONMEBOL TV 1
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/89552.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png" group-title="ESPORTES",CONMEBOL TV 2
@@ -201,9 +205,6 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36962.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36912.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="FILMES E SÉRIES",LIFETIME BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/50829.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/200px-Loading_TV.svg.png" group-title="VARIEDADES",LOADING
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/76607.ts
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36958.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/YZ7aSTP.png" group-title="FILMES E SÉRIES",PRIME BOX BRAZIL
