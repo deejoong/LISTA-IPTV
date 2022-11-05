@@ -128,8 +128,6 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36970.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36971.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="ESPORTES",PREMIERE CLUBES
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36948.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/74669.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png"ESPORTES",PREMIERE 2
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36952.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 3
@@ -144,7 +142,7 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36906.ts
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36905.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 8
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/64657.ts
-#EXTINF:0 tvg-logo="https://multicanais.fm/wp-content/uploads/2019/04/assistir-sportv-ao-vivo-online-1-366x205.png"ESPORTES",SPORTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/XNfagj9.png"ESPORTES",SPORTV
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37255.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/pBiUnb2.png"ESPORTES",SPORTV 2
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36943.ts
