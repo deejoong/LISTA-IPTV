@@ -20,7 +20,7 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/37012.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36945.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13855.ts
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?IMDSFULL
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.5f3fcd9b0f2037925c9e6ddb8cca9fee?rik=VAoa54vEVv%2fvEQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV ABERTA",TV BRASIL
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/63632.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/z76Gbsm.png" group-title="TV ABERTA",TV ESCOLA
