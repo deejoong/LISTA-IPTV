@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg"TV ABERTA",Agro+ HD
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/71074.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/yL4DZoE.png" group-title="TV ABERTA",CANAL RURAL
